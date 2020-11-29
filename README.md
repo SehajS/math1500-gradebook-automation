@@ -17,7 +17,7 @@ The packages used in the code are pandas, numpy and openpyxl. Note that pandas a
 - <code>pip install numpy</code>
 - <code>pip install pandas</code>
 - <code>pip install openpyxl</code>
-- 
+
 Alternatively, they all can be installed from Anacondas Navigator.
 
 
