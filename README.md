@@ -1,4 +1,4 @@
-# Math 1500 Result Extraction
+# Math 1500 Result Extraction from CrowdMark
 
 The Jupyter notebook is intended to help the TAs in Department of Mathematics at University of Manitoba in the extraction of results for Math 1500 term tests. It automatically produces the excel files for all the sections within a particular group. 
 
