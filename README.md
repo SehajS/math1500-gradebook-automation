@@ -26,4 +26,4 @@ One has to open the jupyter notebook and then just run every cell by pressing <c
 
 --------------------------------------------------------
 ### To the TAs 
-Hopefully, this takes off a lot of load from you guys wherein you had to manually copy and paste the results from all the files to one main excel file. Comments and suggestions to further enhance the code/include more cases are always welcome.
+Hopefully, this takes some load off from you guys wherein before, you had to manually search, copy and paste the results from all the files to one main excel file for your section and now everything has been automated for you. Comments and suggestions to further enhance the code/include more cases are always welcome.
