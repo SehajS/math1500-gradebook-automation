@@ -5,7 +5,7 @@ The Jupyter notebook is intended to help the TAs in Department of Mathematics at
 
 # Files and Important Notes
 - It is super **important** that the files downloaded from Crowdmark follow the naming convention: **term test #.csv** . For example, the group file for term test 7 should be named 'term test 7.csv' .
-- Also, the code only generates the results of the sections within a group. Files corresponding to more than one groups should be present in the working directory. The working directory should only contain the .csv files downloaded from Crowdmark and the Jupyter Notebook (1500-extraction.ipynb)
+- Also, the code only generates the results of the sections within the same group. Files corresponding to more than one groups should **NOT** be present in the working directory. The working directory should only contain the .csv files downloaded from Crowdmark (of the same group) and the Jupyter Notebook (1500-extraction.ipynb).
 
 
 
